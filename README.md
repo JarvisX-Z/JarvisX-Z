@@ -1,24 +1,48 @@
-<h1 align="center">Hi 👋, I'm Jyotish</h1>
-<h3 align="center">🚀 Self-Taught Developer | Open Source Enthusiast | AI Learner</h3>
+<h1 align="center">Hi 🙂, I'm Jyotish</h1>
+<h3 align="center">🚀 Self-Taught Developer | Open Source Enthusiast | AI Builder</h3>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=AI+Developer;Open+Source+Contributor;Future+GSoC+Winner;Building+Cool+Projects+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=AI+Developer;Open+Source+Contributor;Future+GSoC+Winner;Building+Something+Unique+🚀">
+</p>
+
+---
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JarvisX-Z&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🧠 About Me
-- 🔥 Passionate about **AI, LLMs, and Open Source**
-- 💻 Skilled in **C++, Java, Rust, Solidity**
-- 🎯 Goal: Crack **GSoC & build an AI Startup**
-- 📚 Currently learning **Blockchain + Agentic Ai + AI Tools**
+- 🔭 I’m currently working on **AI Projects & Open Source**
+- 🌱 I’m learning **LLMs, blockchain Development, System Design**
+- 💬 Ask me about **C++, Java, Rust, Solidity**
+- 🎯 Goal: **GSoC + AI Startup**
+- ⚡ Fun fact: *I build things differently.*
 
 ---
 
-## 🚀 Tech Stack
+## 🌐 Connect With Me
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,rust,solidity,git,github, gitlab,replit" />
+  <a href="https://www.instagram.com/jyotishman.x/">
+    <img src="https://img.shields.io/badge/Instagram-ff004f?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧰 Coding Profiles
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+---
+
+## 🚀 Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,rust,solidity,js,react,nodejs,git,github,vscode" />
 </p>
 
 ---
@@ -31,27 +55,22 @@
 
 ---
 
-## 🧩 Projects
+## 📌 Projects
 - 🚀 AI Data Labeling Tool *(Coming Soon)*
-- 🔥 Open Source Contributions (Active)
+- 🔥 Open Source Contributions  
 
 ---
 
-## 🌐 Connect With Me
+## ☕ Support Me
 <p align="center">
-  <a>
-    <img src="https://img.shields.io/badge/Instagram-ff004f?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="#">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee"/>
   </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
-💡 "I don't follow trends, I build them."
-
----
-
-<!-- Snake Animation -->
+## 📈 Contribution Overview
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JarvisX-Z&theme=tokyonight" />
 </p>
