@@ -56,7 +56,7 @@
 ---
 
 ## 📌 Projects
-- 🚀 https://code-context-finder--jyotishdeka091.replit.app
+- 🚀 https://code-context-finder-ai-context-anal.vercel.app
 - 🔥 Open Source Contributions  
 
 ---
