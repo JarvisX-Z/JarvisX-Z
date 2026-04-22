@@ -3,7 +3,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=AI+Developer;Open+Source+Contributor;Future+GSoC+Winner;Building+Something+Unique+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=AI+Developer;Open+Source+Contributor;Building+Something+Unique+🚀">
 </p>
 
 ---
@@ -42,7 +42,7 @@
 
 ## 🚀 Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,rust,solidity,js,react,nodejs,git,github,gitlab,replit,docker,discord" />
+  <img src="https://skillicons.dev/icons?i=cpp,rust,solidity,js,react,nodejs,git,github,gitlab,replit,docker,discord,cursor "/>
 </p>
 
 ---
