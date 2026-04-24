@@ -1,12 +1,10 @@
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║              🚀  JYOTISH DEKA                                ║
-║                                                              ║
-║      AI Developer | Web3 | Open Source         ║
-║                                                              ║
-║      > Building something unique...                          ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+🦋JYOTISH DEKA
+
+   AI Developer | Blockchain Builder | Open Source Contributor
+
+        < Building something unique />
+
+████████████████████████████████████████████████████████████████
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=650&lines=AI+Developer;Web3+dev;Open+Source+Contributor;Building+Scalable+Projects+🚀">
