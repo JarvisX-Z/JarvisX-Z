@@ -42,7 +42,7 @@
 
 ## 🚀 Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,rust,solidity,js,react,nodejs,git,github,gitlab,replit,docker,discord,cursor,Kubernetes,vercel"/>
+  <img src="https://skillicons.dev/icons?i=cpp,rust,solidity,js,react,nodejs,git,github,gitlab,replit,docker,discord,cursor,aws,kubernetes,vercel"/>
 </p>
 
 ---
