@@ -42,12 +42,12 @@
 
 ## 🚀 Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,rust,solidity,js,react,nodejs,git,github,gitlab,replit,docker,discord,cursor "/>
+  <img src="https://skillicons.dev/icons?i=cpp,rust,solidity,js,react,nodejs,git,github,gitlab,replit,docker,discord,cursor,Kubernetes,vercel"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statsp
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JarvisX-Z&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JarvisX-Z&theme=tokyonight" />
