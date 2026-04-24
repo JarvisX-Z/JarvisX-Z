@@ -1,6 +1,46 @@
-<h1 align="center">Hi 🙂, I'm Jyotish</h1>
-<h3 align="center">🚀 Self-Taught Developer | Open Source Enthusiast | AI + Blockchain Builder</h3>
+<p align="center">
+<svg width="100%" height="300" viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg">
 
+  <!-- Background -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="100%" stop-color="#0a1f44"/>
+    </linearGradient>
+
+    <linearGradient id="textGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bg)" />
+
+  <!-- Name -->
+  <text x="50%" y="120" font-size="60" text-anchor="middle"
+        fill="url(#textGradient)" font-family="Arial" font-weight="bold">
+    Jyotish Deka
+  </text>
+
+  <!-- Subtitle -->
+  <text x="50%" y="170" font-size="18" text-anchor="middle"
+        fill="#cbd5e1" font-family="Arial">
+    AI Developer | Web3 | Open Source Contributor
+  </text>
+
+  <!-- Divider -->
+  <line x1="200" y1="190" x2="800" y2="190"
+        stroke="#3b82f6" stroke-width="1"/>
+
+  <!-- Tagline -->
+  <text x="50%" y="230" font-size="16" text-anchor="middle"
+        fill="#38bdf8" font-family="monospace">
+    &lt; out of the universe /&gt;
+  </text>
+
+</svg>
+</p>
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=650&lines=AI+Developer;Blockchain+Builder;Open+Source+Contributor;Building+Scalable+Projects+🚀">
@@ -35,7 +75,7 @@
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,rust,solidity,js,ts,react,nodejs,git,github,gitlab,docker,aws,kubernetes,vercel" />
+  <img src="https://skillicons.dev/icons?i=cpp,rust,solidity,js,ts,react,nodejs,git,github,gitlab,replit,docker,aws,kubernetes,vercel" />
 </p>
 
 ---
