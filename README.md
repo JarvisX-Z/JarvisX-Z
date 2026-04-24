@@ -1,10 +1,6 @@
-🦋JYOTISH DEKA
-
-   AI Developer | Blockchain Builder | Open Source Contributor
-
-        < Building something unique />
-
-████████████████████████████████████████████████████████████████
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JarvisX-Z/JarvisX-Z/main/banner.svg" />
+</p>
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=650&lines=AI+Developer;Web3+dev;Open+Source+Contributor;Building+Scalable+Projects+🚀">
