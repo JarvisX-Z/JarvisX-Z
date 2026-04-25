@@ -19,7 +19,7 @@
 - 🔭 Building **AI-powered developer tools & open-source projects**
 - 🌱 Learning **LLMs, Blockchain Development, System Design**
 - 💬 Ask me about **C++, Rust, Solidity, JavaScript**
-- 🎯 Goal: **GSoC 2026 + AI Startup**
+- 🎯 Goal: **To become a startup founder**
 - ⚡ Mindset: *I don’t just code, I build solutions.*
 
 ---
@@ -101,4 +101,4 @@
 ---
 
 ## ⭐ Final Note
-> *Building unique solutions using AI + Blockchain. Always learning, always improving.*
+> *Turning small efforts today into something meaningful for tomorrow ahead.*
