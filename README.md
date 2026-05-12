@@ -67,6 +67,17 @@
 - 🧠 AI-based relevance selection  
 - 🚀 Faster & cost-efficient LLM queries  
 
+### 🔥 IntentGuard AI
+AI-powered intent analysis system designed to detect, understand, and filter user intent for safer and more accurate AI interactions
+
+🌐 Live Demo: https://intentguard-ai.vercel.app/
+
+ **Key Features:**
+- ⚡ Intent Detection Engine – Identifies user intent beyond simple keyword matching
+- 🔗 Context-Aware Analysis – Understands meaning based on full input context
+- 🧠 AI-Based Filtering Layer – Improves response relevance and safety
+- 🚀 Optimized AI Pipeline – Fast and efficient processing for real-time use
+
 ---
 
 ## 📊 GitHub Stats
